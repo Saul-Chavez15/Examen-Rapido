@@ -1,0 +1,12 @@
+C:\Saúl 24815\Cronometro\Cronometro\bin\Debug\Cronometro.exe.config
+C:\Saúl 24815\Cronometro\Cronometro\bin\Debug\Cronometro.exe
+C:\Saúl 24815\Cronometro\Cronometro\bin\Debug\Cronometro.pdb
+C:\Saúl 24815\Cronometro\Cronometro\bin\Debug\Cronometro.xml
+C:\Saúl 24815\Cronometro\Cronometro\obj\Debug\Cronometro.vbprojAssemblyReference.cache
+C:\Saúl 24815\Cronometro\Cronometro\obj\Debug\Cronometro.Form1.resources
+C:\Saúl 24815\Cronometro\Cronometro\obj\Debug\Cronometro.Resources.resources
+C:\Saúl 24815\Cronometro\Cronometro\obj\Debug\Cronometro.vbproj.GenerateResource.cache
+C:\Saúl 24815\Cronometro\Cronometro\obj\Debug\Cronometro.vbproj.CoreCompileInputs.cache
+C:\Saúl 24815\Cronometro\Cronometro\obj\Debug\Cronometro.exe
+C:\Saúl 24815\Cronometro\Cronometro\obj\Debug\Cronometro.xml
+C:\Saúl 24815\Cronometro\Cronometro\obj\Debug\Cronometro.pdb
