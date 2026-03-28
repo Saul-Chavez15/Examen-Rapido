@@ -10,3 +10,15 @@ C:\Saúl 24815\Cronometro\Cronometro\obj\Debug\Cronometro.vbproj.CoreCompileInpu
 C:\Saúl 24815\Cronometro\Cronometro\obj\Debug\Cronometro.exe
 C:\Saúl 24815\Cronometro\Cronometro\obj\Debug\Cronometro.xml
 C:\Saúl 24815\Cronometro\Cronometro\obj\Debug\Cronometro.pdb
+C:\Users\isaac\Downloads\Examen-Rapido-main\Examen-Rapido-main\Cronometro\Cronometro\obj\Debug\Cronometro.vbproj.AssemblyReference.cache
+C:\Users\isaac\Downloads\Examen-Rapido-main\Examen-Rapido-main\Cronometro\Cronometro\obj\Debug\Cronometro.Form1.resources
+C:\Users\isaac\Downloads\Examen-Rapido-main\Examen-Rapido-main\Cronometro\Cronometro\obj\Debug\Cronometro.Resources.resources
+C:\Users\isaac\Downloads\Examen-Rapido-main\Examen-Rapido-main\Cronometro\Cronometro\obj\Debug\Cronometro.vbproj.GenerateResource.cache
+C:\Users\isaac\Downloads\Examen-Rapido-main\Examen-Rapido-main\Cronometro\Cronometro\obj\Debug\Cronometro.vbproj.CoreCompileInputs.cache
+C:\Users\isaac\Downloads\Examen-Rapido-main\Examen-Rapido-main\Cronometro\Cronometro\obj\Debug\Cronometro.exe
+C:\Users\isaac\Downloads\Examen-Rapido-main\Examen-Rapido-main\Cronometro\Cronometro\obj\Debug\Cronometro.xml
+C:\Users\isaac\Downloads\Examen-Rapido-main\Examen-Rapido-main\Cronometro\Cronometro\obj\Debug\Cronometro.pdb
+C:\Users\isaac\Downloads\Examen-Rapido-main\Examen-Rapido-main\Cronometro\Cronometro\bin\Debug\Cronometro.exe.config
+C:\Users\isaac\Downloads\Examen-Rapido-main\Examen-Rapido-main\Cronometro\Cronometro\bin\Debug\Cronometro.exe
+C:\Users\isaac\Downloads\Examen-Rapido-main\Examen-Rapido-main\Cronometro\Cronometro\bin\Debug\Cronometro.pdb
+C:\Users\isaac\Downloads\Examen-Rapido-main\Examen-Rapido-main\Cronometro\Cronometro\bin\Debug\Cronometro.xml
